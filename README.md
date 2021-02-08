@@ -59,7 +59,7 @@ I don't kown if I will introduce the option to ignore certificate errors. It is 
 
 ## Known issues/Limitations
 
-* List of Eclipse version plugins is compliant is to be defined, It will be test with the version of Eclipse I'm using (Linux/Windows) in front of always an always up to date gitea instance. 
+* List of Eclipse versions plugins is compliant with, is to be defined. It will be test with the version of Eclipse I'm using (Linux/Windows) in front of an always up to date gitea instance. 
 * Version 1.x will only support read acess and queries, we have may to wait the Version 2.x to create and modify issues.
 * If you created a new milestone or added a new project member via the web interface, you have to update the repository configuration, so that the connector reloads the project members and milestones. Right click on the Gitea repository in the Task repositories view and click on "Update Repository Configuration".
 * Offline mode does not work.
